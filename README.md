@@ -26,7 +26,9 @@ CSS3
 
 ## Project Structure
 index.html - Main HTML file containing the structure of the form.
+
 style.css - CSS file for styling the form and making it responsive.
+
 background.jpg - image for the background of the body, free download on Uplash.
 
 ## Acknowledgments
